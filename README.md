@@ -16,4 +16,4 @@ People are inventing compile-to-JS languages for that. (PureScript, TypeScript, 
 
 But I already wrote SOOOO much JavaScript...
 
-Facebook Flow!
+[Facebook Flow!](http://flowtype.org/)
